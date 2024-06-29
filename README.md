@@ -1,5 +1,5 @@
 # gomugomuno
-This is my very first time using github, just created an account few years back
+This is my very first time using github, just created an account few years back   
 Hi self, this is your alter-ego, hevody! ^^
 
 
